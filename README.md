@@ -6,8 +6,6 @@ Steps to follow:
 
     Type Command : dmesg | grep -i scsi (This will provide your WD Passport drive name)
 
-    screenshot from 2018-08-28 06-11-54
-
     Example : In my case its "sdb" (See the line [sdb] Attached SCSI disk above the WD My Passport)
 
     Download the code zip file
